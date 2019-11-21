@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestMobbeelAAR.iml" filepath="$PROJECT_DIR$/TestMobbeelAAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/aar-maven-lib-app.iml" filepath="$PROJECT_DIR$/app/aar-maven-lib-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internal-android-double-nested-library/aar-maven-lib-internal-android-double-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-double-nested-library/aar-maven-lib-internal-android-double-nested-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internal-android-library/aar-maven-lib-internal-android-library.iml" filepath="$PROJECT_DIR$/internal-android-library/aar-maven-lib-internal-android-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internal-android-nested-library/aar-maven-lib-internal-android-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-nested-library/aar-maven-lib-internal-android-nested-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/ext-library/ext-library.iml" filepath="$PROJECT_DIR$/ext-library/ext-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/external-lib/external-lib.iml" filepath="$PROJECT_DIR$/external-lib/external-lib.iml" />
