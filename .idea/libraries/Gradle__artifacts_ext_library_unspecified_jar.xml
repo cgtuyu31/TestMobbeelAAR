@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:ext-library:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ext-library/build/.transforms/add69f3d39c6f88cdad04f5fa279d45a/app/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/ext-library/build/.transforms/add69f3d39c6f88cdad04f5fa279d45a/app/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
