@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         val lib = InternalAndroidLibrary()
         val extLib = ExternalMobbeelAndroidLibrary()
 
-        tv_usage?.text = "MainApp is Using Library :\n" +
+        tv_usage?.text = "Test MainApp is Using Library :\n" +
                 "${lib.getNested()}\n"+
                 "[${extLib.TAG}]"
     }
