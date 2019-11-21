@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7b885b43-ffe7-4056-b8ed-16bd67384b19" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/tkpd/testmobbeelaar/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/tkpd/testmobbeelaar/MainActivity.kt" afterDir="false" />
+=======
+    <list default="true" id="91a21077-6b77-489e-91a8-a8b2efb238d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/TestMobbeelAAR.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TestMobbeelAAR.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext-library/app.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ext-library/ext-library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ext-library/ext-library.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-lib/external-lib.iml" beforeDir="false" afterPath="$PROJECT_DIR$/external-lib/external-lib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external-library/external-library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/external-library/external-library.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal-android-double-nested-library/internal-android-double-nested-library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/internal-android-double-nested-library/internal-android-double-nested-library.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal-android-library/internal-android-library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/internal-android-library/internal-android-library.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal-android-nested-library/internal-android-nested-library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/internal-android-nested-library/internal-android-nested-library.iml" afterDir="false" />
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +40,7 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+<<<<<<< HEAD
         <task path="$PROJECT_DIR$/app">
           <activation />
         </task>
@@ -147,6 +161,15 @@
       </list>
     </option>
   </component>
+=======
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
@@ -157,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -190,6 +214,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+=======
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="experimental" />
@@ -206,7 +239,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Gradle.aar-maven-lib:app [assemble]">
+=======
+  <component name="RunManager">
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -267,6 +304,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="aar-maven-lib:app [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -291,23 +329,36 @@
         <item itemvalue="Gradle.aar-maven-lib:app [assemble]" />
       </list>
     </recent_temporary>
+=======
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="7b885b43-ffe7-4056-b8ed-16bd67384b19" name="Default Changelist" comment="" />
       <created>1574305800678</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574305800678</updated>
+=======
+      <changelist id="91a21077-6b77-489e-91a8-a8b2efb238d0" name="Default Changelist" comment="" />
+      <created>1574305422783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574305422783</updated>
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="723" extended-state="0" />
+<<<<<<< HEAD
     <editor active="true" />
+=======
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
     <layout>
       <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32875606" />
       <window_info id="Structure" side_tool="true" />
@@ -318,11 +369,15 @@
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" weight="0.3296355" />
+=======
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
       <window_info anchor="bottom" id="Logcat" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="TODO" />
       <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Debug" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -330,12 +385,21 @@
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Gradle" weight="0.32956383" />
+=======
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3296355" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Android WiFi ADB" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Viewer" side_tool="true" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
@@ -352,4 +416,6 @@
       </provider>
     </entry>
   </component>
+=======
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
 </project>

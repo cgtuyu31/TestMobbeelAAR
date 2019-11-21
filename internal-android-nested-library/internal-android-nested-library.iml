@@ -26,7 +26,11 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
+<<<<<<< HEAD
       <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/nakama/Documents/GitHub/aar-maven-lib/internal-android-nested-library/src/debug/java;/Users/nakama/Documents/GitHub/aar-maven-lib/internal-android-nested-library/src/release/kotlin;/Users/nakama/Documents/GitHub/aar-maven-lib/internal-android-nested-library/src/release/java;/Users/nakama/Documents/GitHub/aar-maven-lib/internal-android-nested-library/src/debugAndroidTest/kotlin;/Users/nakama/Documents/GitHub/aar-maven-lib/internal-android-nested-library/src/debugUnitTest/kotlin;/Users/nakama/Documents/GitHub/aar-maven-lib/internal-android-nested-library/src/releaseUnitTest/kotlin">
+=======
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="$MODULE_DIR$/src/debug/kotlin;/Users/nakama/Documents/GitHub/TestMobbeelAAR/internal-android-nested-library/src/debug/java;/Users/nakama/Documents/GitHub/TestMobbeelAAR/internal-android-nested-library/src/release/kotlin;/Users/nakama/Documents/GitHub/TestMobbeelAAR/internal-android-nested-library/src/release/java;/Users/nakama/Documents/GitHub/TestMobbeelAAR/internal-android-nested-library/src/debugAndroidTest/kotlin;/Users/nakama/Documents/GitHub/TestMobbeelAAR/internal-android-nested-library/src/debugUnitTest/kotlin;/Users/nakama/Documents/GitHub/TestMobbeelAAR/internal-android-nested-library/src/releaseUnitTest/kotlin">
+>>>>>>> cb7bbd27919e21ef54315c9627ed12a6704b5473
         <compilerSettings>
           <option name="additionalArguments" value="-Xallow-no-source-files" />
         </compilerSettings>

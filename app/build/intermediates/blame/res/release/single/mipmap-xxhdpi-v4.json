@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher_round.png",
+        "source": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
