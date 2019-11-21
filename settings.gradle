@@ -1,0 +1,2 @@
+include ':app', ':internal-android-library', ':internal-android-nested-library', ':internal-android-double-nested-library', ':external-lib', ':external-library', ':ext-library'
+rootProject.name='TestMobbeelAAR'
