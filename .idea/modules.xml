@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestMobbeelAAR.iml" filepath="$PROJECT_DIR$/TestMobbeelAAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ext-library/ext-library.iml" filepath="$PROJECT_DIR$/ext-library/ext-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/external-lib/external-lib.iml" filepath="$PROJECT_DIR$/external-lib/external-lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/external-library/external-library.iml" filepath="$PROJECT_DIR$/external-library/external-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internal-android-double-nested-library/internal-android-double-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-double-nested-library/internal-android-double-nested-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internal-android-library/internal-android-library.iml" filepath="$PROJECT_DIR$/internal-android-library/internal-android-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internal-android-nested-library/internal-android-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-nested-library/internal-android-nested-library.iml" />
+    </modules>
+  </component>
+</project>
