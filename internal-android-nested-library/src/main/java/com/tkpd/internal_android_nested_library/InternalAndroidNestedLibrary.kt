@@ -9,7 +9,8 @@ class InternalAndroidNestedLibrary{
 
     fun getNested(): String{
         val lib = InternalAndroidDoubleNestedLibrary()
+        lib.newTagChanged()
         return "[${TAG}]\n {CHANGED 2}" +
-                "\t\t--> [${lib.newTagChanged()}]"
+                "\t\t--> [${lib.TAG}]"
     }
 }
