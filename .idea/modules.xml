@@ -8,8 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/internal-android-nested-library/TestMobbeelAAR-internal-android-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-nested-library/TestMobbeelAAR-internal-android-nested-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-mobbeel-lib/app.iml" filepath="$PROJECT_DIR$/test-mobbeel-lib/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/ext-library/ext-library.iml" filepath="$PROJECT_DIR$/ext-library/ext-library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/external-lib/external-lib.iml" filepath="$PROJECT_DIR$/external-lib/external-lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/external-library/external-library.iml" filepath="$PROJECT_DIR$/external-library/external-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/internal-android-double-nested-library/internal-android-double-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-double-nested-library/internal-android-double-nested-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/internal-android-library/internal-android-library.iml" filepath="$PROJECT_DIR$/internal-android-library/internal-android-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/internal-android-nested-library/internal-android-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-nested-library/internal-android-nested-library.iml" />
