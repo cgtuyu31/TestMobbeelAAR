@@ -3,10 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TestMobbeelAAR.iml" filepath="$PROJECT_DIR$/TestMobbeelAAR.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test-mobbeel-lib/aar-maven-lib-app.iml" filepath="$PROJECT_DIR$/test-mobbeel-lib/aar-maven-lib-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/internal-android-double-nested-library/aar-maven-lib-internal-android-double-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-double-nested-library/aar-maven-lib-internal-android-double-nested-library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/internal-android-library/aar-maven-lib-internal-android-library.iml" filepath="$PROJECT_DIR$/internal-android-library/aar-maven-lib-internal-android-library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/internal-android-nested-library/aar-maven-lib-internal-android-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-nested-library/aar-maven-lib-internal-android-nested-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internal-android-double-nested-library/TestMobbeelAAR-internal-android-double-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-double-nested-library/TestMobbeelAAR-internal-android-double-nested-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internal-android-library/TestMobbeelAAR-internal-android-library.iml" filepath="$PROJECT_DIR$/internal-android-library/TestMobbeelAAR-internal-android-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/internal-android-nested-library/TestMobbeelAAR-internal-android-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-nested-library/TestMobbeelAAR-internal-android-nested-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/test-mobbeel-lib/app.iml" filepath="$PROJECT_DIR$/test-mobbeel-lib/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/ext-library/ext-library.iml" filepath="$PROJECT_DIR$/ext-library/ext-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/external-lib/external-lib.iml" filepath="$PROJECT_DIR$/external-lib/external-lib.iml" />
@@ -14,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/internal-android-double-nested-library/internal-android-double-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-double-nested-library/internal-android-double-nested-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/internal-android-library/internal-android-library.iml" filepath="$PROJECT_DIR$/internal-android-library/internal-android-library.iml" />
       <module fileurl="file://$PROJECT_DIR$/internal-android-nested-library/internal-android-nested-library.iml" filepath="$PROJECT_DIR$/internal-android-nested-library/internal-android-nested-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-mobbeel-lib/test-mobbeel-lib.iml" filepath="$PROJECT_DIR$/test-mobbeel-lib/test-mobbeel-lib.iml" />
     </modules>
   </component>
 </project>

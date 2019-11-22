@@ -8,13 +8,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/ext-library" />
             <option value="$PROJECT_DIR$/external-lib" />
             <option value="$PROJECT_DIR$/external-library" />
             <option value="$PROJECT_DIR$/internal-android-double-nested-library" />
             <option value="$PROJECT_DIR$/internal-android-library" />
             <option value="$PROJECT_DIR$/internal-android-nested-library" />
+            <option value="$PROJECT_DIR$/test-mobbeel-lib" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
