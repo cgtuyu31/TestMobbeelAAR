@@ -8,7 +8,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/ext-library" />
             <option value="$PROJECT_DIR$/internal-android-double-nested-library" />
             <option value="$PROJECT_DIR$/internal-android-library" />
             <option value="$PROJECT_DIR$/internal-android-nested-library" />

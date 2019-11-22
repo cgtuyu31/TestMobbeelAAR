@@ -37,7 +37,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     api project(':internal-android-library')
-    api project(':ext-library')
+//    api project(':ext-library')
 }
 
 repositories {

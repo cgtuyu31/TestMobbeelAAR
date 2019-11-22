@@ -1,2 +1,2 @@
-include 'test-mobbeel-lib',':internal-android-library', ':internal-android-nested-library', ':internal-android-double-nested-library', ':ext-library'
+include 'test-mobbeel-lib',':internal-android-library', ':internal-android-nested-library', ':internal-android-double-nested-library'
 rootProject.name='TestMobbeelAAR'
