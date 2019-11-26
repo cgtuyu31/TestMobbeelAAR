@@ -1,23 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
-            "map": [
-                {
-                    "source": "/Users/nakama/.gradle/caches/transforms-2/files-2.1/c639b3bf913c5ef64111ffeb9905c40b/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
-                    "from": {
-                        "startLines": "2,5,8",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,214,385",
-                        "endLines": "4,7,10",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "209,380,553"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/build/intermediates/res/merged/release/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/nakama/Documents/GitHub/TestMobbeelAAR/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/Users/nakama/.gradle/caches/transforms-2/files-2.1/c639b3bf913c5ef64111ffeb9905c40b/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",

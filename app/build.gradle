@@ -5,6 +5,8 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 
+apply plugin: 'com.mobbeel.plugin'
+
 android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
@@ -39,4 +41,9 @@ dependencies {
 
     api project(':internal-android-library')
     api project(':ext-library')
+}
+
+aarPlugin {
+    includeAllInnerDependencies true
+    packagesToInclude = ["tkpd"]
 }

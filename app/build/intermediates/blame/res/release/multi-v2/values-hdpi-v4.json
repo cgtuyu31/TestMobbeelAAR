@@ -1,23 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
-            "map": [
-                {
-                    "source": "/Users/nakama/.gradle/caches/transforms-2/files-2.1/c639b3bf913c5ef64111ffeb9905c40b/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "13",
-                        "endOffsets": "327"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/build/intermediates/res/merged/release/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/Users/nakama/Documents/GitHub/TestMobbeelAAR/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "/Users/nakama/.gradle/caches/transforms-2/files-2.1/c639b3bf913c5ef64111ffeb9905c40b/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",

@@ -1,22 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
-            "map": [
-                {
-                    "source": "/Users/nakama/.gradle/caches/transforms-2/files-2.1/c639b3bf913c5ef64111ffeb9905c40b/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "112",
-                        "endOffsets": "163"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/build/intermediates/res/merged/release/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "/Users/nakama/Documents/GitHub/TestMobbeelAAR/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
             "map": [
                 {
                     "source": "/Users/nakama/.gradle/caches/transforms-2/files-2.1/c639b3bf913c5ef64111ffeb9905c40b/appcompat-1.1.0/res/values-ldltr-v21/values-ldltr-v21.xml",

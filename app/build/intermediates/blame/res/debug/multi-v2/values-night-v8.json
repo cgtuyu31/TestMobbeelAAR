@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nakama/Documents/GitHub/aar-maven-lib/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/nakama/Documents/GitHub/TestMobbeelAAR/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/nakama/.gradle/caches/transforms-2/files-2.1/fbba6a4ae1d16f1a4fcbe5b52120cb86/appcompat-1.1.0/res/values-night-v8/values-night-v8.xml",
+                    "source": "/Users/nakama/.gradle/caches/transforms-2/files-2.1/c639b3bf913c5ef64111ffeb9905c40b/appcompat-1.1.0/res/values-night-v8/values-night-v8.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

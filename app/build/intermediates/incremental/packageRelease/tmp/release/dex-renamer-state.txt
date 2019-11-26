@@ -1,0 +1,4 @@
+#Tue Nov 26 10:30:34 WIB 2019
+base.0=/Users/nakama/Documents/GitHub/TestMobbeelAAR/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

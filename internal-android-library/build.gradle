@@ -3,6 +3,7 @@ apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'com.jfrog.artifactory'
 apply plugin: 'maven-publish'
+apply plugin: 'com.mobbeel.plugin'
 
 android {
     compileSdkVersion 29
@@ -35,4 +36,9 @@ dependencies {
     api 'androidx.core:core-ktx:1.1.0'
 
     api project(':internal-android-nested-library')
+}
+
+aarPlugin {
+    includeAllInnerDependencies true
+    packagesToInclude = ["tkpd"]
 }
